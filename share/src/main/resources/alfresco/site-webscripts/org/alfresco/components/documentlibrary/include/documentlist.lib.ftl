@@ -244,6 +244,14 @@
              <div class="alf-header">
                 <div class="alf-select"></div>
                 <a href="javascript:void(0)" class="alf-show-detail">&nbsp;</a>
+                <div class="document-edit-properties" id="onActionDetails"><a href="#" class="action-link" style="background-image:url(/share/res/components/documentlibrary/actions/document-edit-properties-16.png)" title="Edit Properties"><span>Edit Properties</span></a></div>
+            </#list>
+            </div>
+         </div>
+      </div>
+   </@>
+</@>
+
                 <div class="alf-label"></div>
              </div>
           </div>
